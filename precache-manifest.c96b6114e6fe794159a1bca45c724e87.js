@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e06e1e9ed27df42aac4d83d6fb10efb2",
+    "revision": "f9d0ab741d97cf5a86df6cfbbd3f85b7",
     "url": "/ip-query-app/index.html"
   },
   {
-    "revision": "d63cae997e9444b54222",
+    "revision": "93ada96e75c2fd97d2bd",
     "url": "/ip-query-app/static/css/main.e7c93453.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ip-query-app/static/js/2.8fe317eb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d63cae997e9444b54222",
-    "url": "/ip-query-app/static/js/main.855016f1.chunk.js"
+    "revision": "93ada96e75c2fd97d2bd",
+    "url": "/ip-query-app/static/js/main.10a64eec.chunk.js"
   },
   {
     "revision": "2617a6703f1604ee8939",

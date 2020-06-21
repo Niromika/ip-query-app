@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ip-query-app/static/css/main.e7c93453.chunk.css",
-    "main.js": "/ip-query-app/static/js/main.855016f1.chunk.js",
-    "main.js.map": "/ip-query-app/static/js/main.855016f1.chunk.js.map",
+    "main.js": "/ip-query-app/static/js/main.10a64eec.chunk.js",
+    "main.js.map": "/ip-query-app/static/js/main.10a64eec.chunk.js.map",
     "runtime-main.js": "/ip-query-app/static/js/runtime-main.cf66d348.js",
     "runtime-main.js.map": "/ip-query-app/static/js/runtime-main.cf66d348.js.map",
     "static/js/2.8fe317eb.chunk.js": "/ip-query-app/static/js/2.8fe317eb.chunk.js",
     "static/js/2.8fe317eb.chunk.js.map": "/ip-query-app/static/js/2.8fe317eb.chunk.js.map",
     "index.html": "/ip-query-app/index.html",
-    "precache-manifest.e5e620310697b25863dc047ee2e91191.js": "/ip-query-app/precache-manifest.e5e620310697b25863dc047ee2e91191.js",
+    "precache-manifest.c96b6114e6fe794159a1bca45c724e87.js": "/ip-query-app/precache-manifest.c96b6114e6fe794159a1bca45c724e87.js",
     "service-worker.js": "/ip-query-app/service-worker.js",
     "static/css/main.e7c93453.chunk.css.map": "/ip-query-app/static/css/main.e7c93453.chunk.css.map",
     "static/js/2.8fe317eb.chunk.js.LICENSE.txt": "/ip-query-app/static/js/2.8fe317eb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cf66d348.js",
     "static/js/2.8fe317eb.chunk.js",
     "static/css/main.e7c93453.chunk.css",
-    "static/js/main.855016f1.chunk.js"
+    "static/js/main.10a64eec.chunk.js"
   ]
 }
